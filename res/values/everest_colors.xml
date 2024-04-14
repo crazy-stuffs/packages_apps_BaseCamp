@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     Copyright (C) 2022-2023 The EverestOS Project
+     Copyright (C) 2024 EverestOS
      SPDX-License-Identifier: Apache-2.0
 -->
+
 <resources
     xmlns:androidprv="http://schemas.android.com/apk/prv/res/android">
 
@@ -15,4 +16,5 @@
      <color name="everest_background2">@android:color/system_neutral1_100</color>
      <color name="everest_background3">@android:color/system_accent1_400</color>
 
+    <color name="homepage_everest_background">#0060FF</color>
 </resources>
