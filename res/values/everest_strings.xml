@@ -8,6 +8,11 @@
     <!-- App Title -->
     <string name="everest_title">Base Camp</string>
 
+    <!-- Status bar -->
+    <string name="status_bar_icons_category">Icons</string>
+    <string name="status_bar_tuner_title">Status bar tuner</string>
+    <string name="status_bar_tuner_summary">Choose which system icons can be shown</string>
+
     <!-- Themes -->
     <string name="themes_fonts_category">Fonts</string>
     <string name="themes_system_font_title">System font</string>
